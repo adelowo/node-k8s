@@ -1,0 +1,11 @@
+{
+  "name": "node-k8s",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Lanre Adelowo <yo@lanre.wtf>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "faker": "^4.1.0"
+  }
+}
