@@ -10,8 +10,8 @@ app.get("/profile", (req, res) => {
     firstName: faker.name.firstName(),
     lastName: faker.name.lastName(),
     phone: faker.phone.phoneNumber(),
-	  email: faker.internet.email(),
-	  avatar: faker.internet.avatar(),
+    email: faker.internet.email(),
+    avatar: faker.internet.avatar(),
   });
 });
 
